@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lin Yuan"
+  name             : "袁霖 Lin Yuan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Chongqing University of Posts and Telecommunications"
   location         : "Chongqing, China"
-  employer         : "Chongqing University of Posts and Telecommunications"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=I8keojsAAAAJ&hl=en"
   email            :
