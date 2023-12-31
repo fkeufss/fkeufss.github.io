@@ -11,22 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical Engineering, **École Polytechnique Fédérale de Lausanne (EPFL)**, 2017
+* M.S. in Electrical Engineering, **École Polytechnique Fédérale de Lausanne (EPFL)**, 2013
+* B.S. in Electronic Science and Technology, **University of Electronic Science and Technology of China (UESTC)**, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.07 -- Now: Research Faculty (Associate Professor)
+  * **School of Cyber Security and Information Law, Chongqing University of Posts and Telecommunications (CQUPT)**, Chongqing, China
+  * With the research group headed by **Prof. Dr. Xinbo Gao**
+  * Research of multimedia security and privacy protection
   
+* 2020.03 -- 2021.06: Senior Engineer
+  * **Huawei**, Hangzhou, Zhejiang, China
+  * Development of video coding, transmission, and processing algorithms for real-time communication (RTC) applications.
+  * Supervisor: Changzhong Qian and Cheng Wang
+  
+* 2017.10 -- 2019.12: Software Engineer
+  * **Irdeto BV**, Hoofddorp, The Netherlands
+  * Development of video watermarking algorithms and systems for media content protection and pirate detection.
+  * Supervisor: Janet Nagtegaal-Bolger and Dr. Vladimir Zivkovic
+  
+* 2014.03 -- 2017.07: Research & Teaching Assistant
+  * **Multimedia Signal Processing Group (MMSPG), EPFL**, Lausanne, Switzerland
+  * TA of courses *Multimedia Signal Processing* and *Media Security*
+  * Supervisor: **Prof. Dr. Touradj Ebrahimi**
+
+* 2012.07 -- 2013.08: Research Intern
+  * **Technicolor**, Hannover, Germnay
+  * Development and evaluations of audio watermarking algorithms
+  * Supervisor: Dr. Peter Baum and Dr. Michael Arnold
+
+
 Skills
 ======
 * Skill 1
