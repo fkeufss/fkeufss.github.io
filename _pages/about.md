@@ -16,8 +16,6 @@ redirect_from:
 以及瑞士国家基金会等项目多项。现担任中国图象图形学学会数字媒体取证与安全专业委员会委员。
 曾于Technicolor德国汉诺威研究所，Irdeto荷兰研发总部，与华为2012实验室中央媒体技术院从事视频相关技术研发。
 
-English version
-======
 Lin Yuan received the B.Eng. degree in electronic science and technology 
 from the University of Electronic Science and Technology of China (UESTC) in 2011, 
 the M.Sc. degree in electrical engineering from the École Polytechnique Fédérale de Lausanne (EPFL) in 2013, 
