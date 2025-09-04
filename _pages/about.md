@@ -8,22 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-**袁霖，博士，副教授，硕导**，重庆邮电大学网络空间安全与信息法学院专任教师，隶属于**高新波**教授课题组。
-本科毕业于电子科技大学，硕/博毕业于洛桑联邦理工学院 (EPFL)，
-师从Touradj Ebrahimi教授。研究兴趣包括图像视频安全与隐私保护。
-发表学术论文15余篇，获授权专利3件，主持国家自然科学基金项目1项与省部级项目4项，
+**袁霖，博士，副教授，硕导**，重庆邮电大学网络空间安全与信息法学院信息安全系副主任，
+重庆邮电大学司法鉴定中心司法鉴定人，
+隶属于图像认知重庆市重点实验室（**高新波**教授课题组）。
+本科毕业于电子科技大学，硕/博毕业于瑞士洛桑联邦理工学院 (EPFL)，
+师从Touradj Ebrahimi教授（JPEG主席）。研究兴趣包括多媒体安全、隐私保护、图像视频处理等。
+在TIFS、TCSVT、MM、PR等会议与期刊发表学术论文30余篇，获授权专利4项，主持国家自然科学基金项目1项与省部级项目4项，
 参与国家自然科学基金创新研究群体、区域联合基金项目，欧盟Horizon2020，
 以及瑞士国家基金会等项目多项。现担任中国图象图形学学会数字媒体取证与安全专业委员会委员。
-曾于Technicolor德国汉诺威研究所，Irdeto荷兰研发总部，与华为2012实验室中央媒体技术院从事视频相关技术研发。
+曾于Technicolor德国汉诺威研究所，Irdeto BV荷兰研发总部，以及华为2012实验室中央媒体技术院从事视频相关技术研发。
 
-Lin Yuan received the B.Eng. degree in electronic science and technology 
-from the University of Electronic Science and Technology of China (UESTC) in 2011, 
-the M.Sc. degree in electrical engineering from the École Polytechnique Fédérale de Lausanne (EPFL) in 2013, 
-and the Ph.D. degree in electrical engineering from the École Polytechnique Fédérale de Lausanne (EPFL) in 2017, 
-respectively. He is currently an associate professor of the School of Cyber Security and Information Law, 
-Chongqing University of Posts and Telecommunications (CQUPT). 
-Before joining CQUPT, he had the experince working as a skilled engineer at Irdeto BV 
-(Hoofddrop, the Netherlands) between October 2017 and December 2019, 
-and Huawei 2012 Labs (Hangzhou, Zhejiang) between March 2020 and June 2021. 
-His research interests include image and video processing, computer vision, 
-and multimedia privacy protection and forensics.
+
+***
+## 教育背景
+* **洛桑联邦理工学院**，博士，电子工程，瑞士洛桑，2017
+* **洛桑联邦理工学院**，硕士，电子工程，瑞士洛桑，2013
+* **电子科技大学**，学士，电子科学与技术，四川成都，2011
+
+***
+## 工作经历
+* **重庆邮电大学**，重庆南岸，2021.07 至今
+  * 网络空间安全与信息法学院，图像认知重庆市重点实验
+  
+* **华为**，浙江杭州，2020.03 -- 2021.06
+  * 2012实验室/中央媒体技术院/视频工程部，高级工程师，视频通信技术
+  
+* **Irdeto BV**，荷兰阿姆斯特丹，2017.10 -- 2019.12
+  * 网络安全与内容保护研发部，软件工程师，视频水印技术
+  
+* **Technicolor**，德国汉诺威，2012.07 -- 2013.08
+  * 内容保护实验室，实习生，音频水印技术
